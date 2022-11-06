@@ -17,9 +17,9 @@ Last year I informally (winging it) did a game design unit as I struggled to eng
 
 ### Standards Referenced
 
-9-12.CT.8 Develop a program that effectively uses control structures in order to create a computer program for practical intent, personal expression, or to address a societal issue.
-9-12.CT.9 Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.
-9-12.CT.10 Collaboratively design and develop a program or computational artifact for a specific audience and create documentation outlining implementation features to inform collaborators and users.
+#9-12.CT.8 Develop a program that effectively uses control structures in order to create a computer program for practical intent, personal expression, or to address a societal issue.
+#9-12.CT.9 Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.
+#9-12.CT.10 Collaboratively design and develop a program or computational artifact for a specific audience and create documentation outlining implementation features to inform collaborators and users.
 
 
 ---
@@ -32,30 +32,30 @@ This link has all the "game mechanics" in one link: https://snap.berkeley.edu/sn
 ---
 
 ### Resources
-snap.berkeley.edu
-"Games for Change" Curriculum (https://gamesforchange.org/studentchallenge/teachers-resources/)
-"Coding Games in Scratch" by Jon Woodcock 
-BJC curriculum (bjc.edc.org)
+#snap.berkeley.edu
+#"Games for Change" Curriculum (https://gamesforchange.org/studentchallenge/teachers-resources/)
+#"Coding Games in Scratch" by Jon Woodcock 
+#BJC curriculum (bjc.edc.org)
 
 ---
 
 ### Lessons
-Total length: 2-3 Weeks
+#Total length: 2-3 Weeks
 
-Folder with all lessons in google doc form:  https://drive.google.com/drive/folders/1-l9-JdSxMRznfCPocolEh-w9p44me85p?usp=sharing
+#Folder with all lessons in google doc form:  https://drive.google.com/drive/folders/1-l9-JdSxMRznfCPocolEh-w9p44me85p?usp=sharing
 
-1. Exploring the elements of video game (1 day)
-2. Code a simple game (Star Hunter) to see how some basic interactions are created (2 days).  Explain the code, test and debug.
-3. Mouse control, using a score variable, and 3 different jumping mechanics.  Create a very simple game.  Explain, test, debug. (2 days)
-4. Shooting mechanics and creating and ending a very simple game.  Explain, test, debug. (2 days)
-5. Hitting Mechanics with two players. Prompt for and use names (user input).  Complete a simple game script incorporating multiple movements options.(1 day)
-6. Maze mechanics and using a timer. (1 day)
-7. Project/Assessment:  Code your own video game!  (3-5 days)
+#1. Exploring the elements of video game (1 day)
+#2. Code a simple game (Star Hunter) to see how some basic interactions are created (2 days).  Explain the code, test and debug.
+#3. Mouse control, using a score variable, and 3 different jumping mechanics.  Create a very simple game.  Explain, test, debug. (2 days)
+#4. Shooting mechanics and creating and ending a very simple game.  Explain, test, debug. (2 days)
+#5. Hitting Mechanics with two players. Prompt for and use names (user input).  Complete a simple game script incorporating multiple movements options.(1 day)
+#6. Maze mechanics and using a timer. (1 day)
+#7. Project/Assessment:  Code your own video game!  (3-5 days)
 
 ---
 
 ### Assessments
-1. Each day has a google doc with questions for the students to answer, and coding exercises in most cases
-2. The final assessment is for them to create their own video game.
+#1. Each day has a google doc with questions for the students to answer, and coding exercises in most cases
+#2. The final assessment is for them to create their own video game.
 
 ---
