@@ -5,7 +5,7 @@ by SARAH MCCOY
 
 ### General Overview
 
-This unit would break down the elements of video game design into individual coding lessons and challenges, culminating in bringing together a few of those elements into a unique video game.  It could fit into an intro CS course like TEALS, or be a supplementary unit in BJC's AP CSP curriculum
+This unit breaks down the elements of video game design into individual coding lessons and challenges, culminating in bringing together a few of those elements into a unique video game.  It could fit into an intro CS course like TEALS, or be a supplementary unit in BJC's AP CSP curriculum
 
 ---
 
