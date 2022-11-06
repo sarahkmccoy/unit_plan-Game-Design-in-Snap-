@@ -17,9 +17,9 @@ Last year I informally (winging it) did a game design unit as I struggled to eng
 
 ### Standards Referenced
 
-# 9-12.CT.8 Develop a program that effectively uses control structures in order to create a computer program for practical intent, personal expression, or to address a societal issue.
-# 9-12.CT.9 Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.
-# 9-12.CT.10 Collaboratively design and develop a program or computational artifact for a specific audience and create documentation outlining implementation features to inform collaborators and users.
+* 9-12.CT.8 Develop a program that effectively uses control structures in order to create a computer program for practical intent, personal expression, or to address a societal issue.
+* 9-12.CT.9 Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.
+* 9-12.CT.10 Collaboratively design and develop a program or computational artifact for a specific audience and create documentation outlining implementation features to inform collaborators and users.
 
 
 ---
