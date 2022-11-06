@@ -40,9 +40,11 @@ This link has all the "game mechanics" in one link: https://snap.berkeley.edu/sn
 ---
 
 ### Lessons
-# Total length: 2-3 Weeks
+### Total length: 2-3 Weeks
 
-# Folder with all lessons in google doc form:  https://drive.google.com/drive/folders/1-l9-JdSxMRznfCPocolEh-w9p44me85p?usp=sharing
+### Folder with all lessons in google doc form:  https://drive.google.com/drive/folders/1-l9-JdSxMRznfCPocolEh-w9p44me85p?usp=sharing
+
+Lesson Progression:
 
 1. Exploring the elements of video game (1 day)
 2. Code a simple game (Star Hunter) to see how some basic interactions are created (2 days).  Explain the code, test and debug.
